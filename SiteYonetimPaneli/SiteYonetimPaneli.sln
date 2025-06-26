@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SiteYonetimPaneli", "SiteYonetimPaneli.csproj", "{D63BB6BC-E772-49B0-9AE9-E7DC5058A4A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D63BB6BC-E772-49B0-9AE9-E7DC5058A4A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D63BB6BC-E772-49B0-9AE9-E7DC5058A4A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D63BB6BC-E772-49B0-9AE9-E7DC5058A4A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D63BB6BC-E772-49B0-9AE9-E7DC5058A4A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1638AA22-E140-4700-8BB0-E9EEA1878EAB}
+	EndGlobalSection
+EndGlobal

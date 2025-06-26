@@ -1,0 +1,78 @@
+C:\Users\MONSTER\Desktop\B231210041_Project_Assignment\SiteYonetimPaneli\bin\Debug\net9.0-windows\SiteYonetimPaneli.exe
+C:\Users\MONSTER\Desktop\B231210041_Project_Assignment\SiteYonetimPaneli\bin\Debug\net9.0-windows\SiteYonetimPaneli.deps.json
+C:\Users\MONSTER\Desktop\B231210041_Project_Assignment\SiteYonetimPaneli\bin\Debug\net9.0-windows\SiteYonetimPaneli.runtimeconfig.json
+C:\Users\MONSTER\Desktop\B231210041_Project_Assignment\SiteYonetimPaneli\bin\Debug\net9.0-windows\SiteYonetimPaneli.dll
+C:\Users\MONSTER\Desktop\B231210041_Project_Assignment\SiteYonetimPaneli\bin\Debug\net9.0-windows\SiteYonetimPaneli.pdb
+C:\Users\MONSTER\Desktop\B231210041_Project_Assignment\SiteYonetimPaneli\obj\Debug\net9.0-windows\SiteYonetimPaneli.MainForm.resources
+C:\Users\MONSTER\Desktop\B231210041_Project_Assignment\SiteYonetimPaneli\obj\Debug\net9.0-windows\SiteYonetimPaneli.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\B231210041_Project_Assignment\SiteYonetimPaneli\obj\Debug\net9.0-windows\SiteYonetimPaneli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONSTER\Desktop\B231210041_Project_Assignment\SiteYonetimPaneli\obj\Debug\net9.0-windows\SiteYonetimPaneli.AssemblyInfoInputs.cache
+C:\Users\MONSTER\Desktop\B231210041_Project_Assignment\SiteYonetimPaneli\obj\Debug\net9.0-windows\SiteYonetimPaneli.AssemblyInfo.cs
+C:\Users\MONSTER\Desktop\B231210041_Project_Assignment\SiteYonetimPaneli\obj\Debug\net9.0-windows\SiteYonetimPaneli.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\B231210041_Project_Assignment\SiteYonetimPaneli\obj\Debug\net9.0-windows\SiteYonetimPaneli.dll
+C:\Users\MONSTER\Desktop\B231210041_Project_Assignment\SiteYonetimPaneli\obj\Debug\net9.0-windows\refint\SiteYonetimPaneli.dll
+C:\Users\MONSTER\Desktop\B231210041_Project_Assignment\SiteYonetimPaneli\obj\Debug\net9.0-windows\SiteYonetimPaneli.pdb
+C:\Users\MONSTER\Desktop\B231210041_Project_Assignment\SiteYonetimPaneli\obj\Debug\net9.0-windows\SiteYonetimPaneli.genruntimeconfig.cache
+C:\Users\MONSTER\Desktop\B231210041_Project_Assignment\SiteYonetimPaneli\obj\Debug\net9.0-windows\ref\SiteYonetimPaneli.dll
+C:\Users\MONSTER\Desktop\B231210041_Project_Assignment\SiteYonetimPaneli\obj\Debug\net9.0-windows\SiteYonetimPaneli.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\B231210041_Project_Assignment\SiteYonetimPaneli\bin\Debug\net9.0-windows\Images\mekan-islemleri-icon.png
+C:\Users\MONSTER\Desktop\B231210041_Project_Assignment\SiteYonetimPaneli\bin\Debug\net9.0-windows\Images\oturan-islemleri-icon.png
+C:\Users\MONSTER\Desktop\B231210041_Project_Assignment\SiteYonetimPaneli\bin\Debug\net9.0-windows\Images\odeme-islemleri-icon.png
+C:\Users\MONSTER\Desktop\B231210041_Project_Assignment\SiteYonetimPaneli\bin\Debug\net9.0-windows\Images\yuzme-fitness-islemleri-icon.png
+C:\Users\MONSTER\Desktop\B231210041_Project_Assignment\SiteYonetimPaneli\bin\Debug\net9.0-windows\Images\mainform-icon.ico
+C:\Users\MONSTER\Desktop\B231210041_Project_Assignment\SiteYonetimPaneli\obj\Debug\net9.0-windows\SiteYonetimPaneli.MekanYonetimForm.resources
+C:\Users\MONSTER\Desktop\B231210041_Project_Assignment\SiteYonetimPaneli\obj\Debug\net9.0-windows\SiteYonetimPaneli.OturanYonetimForm.resources
+C:\Users\MONSTER\Desktop\B231210041_Project_Assignment\SiteYonetimPaneli\obj\Debug\net9.0-windows\SiteYonetimPaneli.OdemeYonetimForm.resources
+C:\Users\MONSTER\Desktop\B231210041_Project_Assignment\SiteYonetimPaneli\obj\Debug\net9.0-windows\SiteYonetimPaneli.HavuzFitnessYonetimForm.resources
+C:\Users\MONSTER\Desktop\1.Sınıf 2.Dönem\NDP\Proje\2024-2025 NDP Proje\OOP_Project_Assignment_B231210041\SiteYonetimPaneli\bin\Debug\net9.0-windows\Images\mainform-icon.ico
+C:\Users\MONSTER\Desktop\1.Sınıf 2.Dönem\NDP\Proje\2024-2025 NDP Proje\OOP_Project_Assignment_B231210041\SiteYonetimPaneli\bin\Debug\net9.0-windows\Images\mekan-islemleri-icon.png
+C:\Users\MONSTER\Desktop\1.Sınıf 2.Dönem\NDP\Proje\2024-2025 NDP Proje\OOP_Project_Assignment_B231210041\SiteYonetimPaneli\bin\Debug\net9.0-windows\Images\odeme-islemleri-icon.png
+C:\Users\MONSTER\Desktop\1.Sınıf 2.Dönem\NDP\Proje\2024-2025 NDP Proje\OOP_Project_Assignment_B231210041\SiteYonetimPaneli\bin\Debug\net9.0-windows\Images\oturan-islemleri-icon.png
+C:\Users\MONSTER\Desktop\1.Sınıf 2.Dönem\NDP\Proje\2024-2025 NDP Proje\OOP_Project_Assignment_B231210041\SiteYonetimPaneli\bin\Debug\net9.0-windows\Images\yuzme-fitness-islemleri-icon.png
+C:\Users\MONSTER\Desktop\1.Sınıf 2.Dönem\NDP\Proje\2024-2025 NDP Proje\OOP_Project_Assignment_B231210041\SiteYonetimPaneli\bin\Debug\net9.0-windows\SiteYonetimPaneli.exe
+C:\Users\MONSTER\Desktop\1.Sınıf 2.Dönem\NDP\Proje\2024-2025 NDP Proje\OOP_Project_Assignment_B231210041\SiteYonetimPaneli\bin\Debug\net9.0-windows\SiteYonetimPaneli.deps.json
+C:\Users\MONSTER\Desktop\1.Sınıf 2.Dönem\NDP\Proje\2024-2025 NDP Proje\OOP_Project_Assignment_B231210041\SiteYonetimPaneli\bin\Debug\net9.0-windows\SiteYonetimPaneli.runtimeconfig.json
+C:\Users\MONSTER\Desktop\1.Sınıf 2.Dönem\NDP\Proje\2024-2025 NDP Proje\OOP_Project_Assignment_B231210041\SiteYonetimPaneli\bin\Debug\net9.0-windows\SiteYonetimPaneli.dll
+C:\Users\MONSTER\Desktop\1.Sınıf 2.Dönem\NDP\Proje\2024-2025 NDP Proje\OOP_Project_Assignment_B231210041\SiteYonetimPaneli\bin\Debug\net9.0-windows\SiteYonetimPaneli.pdb
+C:\Users\MONSTER\Desktop\1.Sınıf 2.Dönem\NDP\Proje\2024-2025 NDP Proje\OOP_Project_Assignment_B231210041\SiteYonetimPaneli\obj\Debug\net9.0-windows\SiteYonetimPaneli.HavuzFitnessYonetimForm.resources
+C:\Users\MONSTER\Desktop\1.Sınıf 2.Dönem\NDP\Proje\2024-2025 NDP Proje\OOP_Project_Assignment_B231210041\SiteYonetimPaneli\obj\Debug\net9.0-windows\SiteYonetimPaneli.MainForm.resources
+C:\Users\MONSTER\Desktop\1.Sınıf 2.Dönem\NDP\Proje\2024-2025 NDP Proje\OOP_Project_Assignment_B231210041\SiteYonetimPaneli\obj\Debug\net9.0-windows\SiteYonetimPaneli.MekanYonetimForm.resources
+C:\Users\MONSTER\Desktop\1.Sınıf 2.Dönem\NDP\Proje\2024-2025 NDP Proje\OOP_Project_Assignment_B231210041\SiteYonetimPaneli\obj\Debug\net9.0-windows\SiteYonetimPaneli.OdemeYonetimForm.resources
+C:\Users\MONSTER\Desktop\1.Sınıf 2.Dönem\NDP\Proje\2024-2025 NDP Proje\OOP_Project_Assignment_B231210041\SiteYonetimPaneli\obj\Debug\net9.0-windows\SiteYonetimPaneli.OturanYonetimForm.resources
+C:\Users\MONSTER\Desktop\1.Sınıf 2.Dönem\NDP\Proje\2024-2025 NDP Proje\OOP_Project_Assignment_B231210041\SiteYonetimPaneli\obj\Debug\net9.0-windows\SiteYonetimPaneli.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\1.Sınıf 2.Dönem\NDP\Proje\2024-2025 NDP Proje\OOP_Project_Assignment_B231210041\SiteYonetimPaneli\obj\Debug\net9.0-windows\SiteYonetimPaneli.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\1.Sınıf 2.Dönem\NDP\Proje\2024-2025 NDP Proje\OOP_Project_Assignment_B231210041\SiteYonetimPaneli\obj\Debug\net9.0-windows\SiteYonetimPaneli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONSTER\Desktop\1.Sınıf 2.Dönem\NDP\Proje\2024-2025 NDP Proje\OOP_Project_Assignment_B231210041\SiteYonetimPaneli\obj\Debug\net9.0-windows\SiteYonetimPaneli.AssemblyInfoInputs.cache
+C:\Users\MONSTER\Desktop\1.Sınıf 2.Dönem\NDP\Proje\2024-2025 NDP Proje\OOP_Project_Assignment_B231210041\SiteYonetimPaneli\obj\Debug\net9.0-windows\SiteYonetimPaneli.AssemblyInfo.cs
+C:\Users\MONSTER\Desktop\1.Sınıf 2.Dönem\NDP\Proje\2024-2025 NDP Proje\OOP_Project_Assignment_B231210041\SiteYonetimPaneli\obj\Debug\net9.0-windows\SiteYonetimPaneli.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\1.Sınıf 2.Dönem\NDP\Proje\2024-2025 NDP Proje\OOP_Project_Assignment_B231210041\SiteYonetimPaneli\obj\Debug\net9.0-windows\SiteYonetimPaneli.dll
+C:\Users\MONSTER\Desktop\1.Sınıf 2.Dönem\NDP\Proje\2024-2025 NDP Proje\OOP_Project_Assignment_B231210041\SiteYonetimPaneli\obj\Debug\net9.0-windows\refint\SiteYonetimPaneli.dll
+C:\Users\MONSTER\Desktop\1.Sınıf 2.Dönem\NDP\Proje\2024-2025 NDP Proje\OOP_Project_Assignment_B231210041\SiteYonetimPaneli\obj\Debug\net9.0-windows\SiteYonetimPaneli.pdb
+C:\Users\MONSTER\Desktop\1.Sınıf 2.Dönem\NDP\Proje\2024-2025 NDP Proje\OOP_Project_Assignment_B231210041\SiteYonetimPaneli\obj\Debug\net9.0-windows\SiteYonetimPaneli.genruntimeconfig.cache
+C:\Users\MONSTER\Desktop\1.Sınıf 2.Dönem\NDP\Proje\2024-2025 NDP Proje\OOP_Project_Assignment_B231210041\SiteYonetimPaneli\obj\Debug\net9.0-windows\ref\SiteYonetimPaneli.dll
+C:\Users\MONSTER\Desktop\1.Sınıf 2.Dönem\NDP\Ödevler\2024-2025 NDP Proje\OOP_Project_Assignment_B231210041\SiteYonetimPaneli\bin\Debug\net9.0-windows\Images\mainform-icon.ico
+C:\Users\MONSTER\Desktop\1.Sınıf 2.Dönem\NDP\Ödevler\2024-2025 NDP Proje\OOP_Project_Assignment_B231210041\SiteYonetimPaneli\bin\Debug\net9.0-windows\Images\mekan-islemleri-icon.png
+C:\Users\MONSTER\Desktop\1.Sınıf 2.Dönem\NDP\Ödevler\2024-2025 NDP Proje\OOP_Project_Assignment_B231210041\SiteYonetimPaneli\bin\Debug\net9.0-windows\Images\odeme-islemleri-icon.png
+C:\Users\MONSTER\Desktop\1.Sınıf 2.Dönem\NDP\Ödevler\2024-2025 NDP Proje\OOP_Project_Assignment_B231210041\SiteYonetimPaneli\bin\Debug\net9.0-windows\Images\oturan-islemleri-icon.png
+C:\Users\MONSTER\Desktop\1.Sınıf 2.Dönem\NDP\Ödevler\2024-2025 NDP Proje\OOP_Project_Assignment_B231210041\SiteYonetimPaneli\bin\Debug\net9.0-windows\Images\yuzme-fitness-islemleri-icon.png
+C:\Users\MONSTER\Desktop\1.Sınıf 2.Dönem\NDP\Ödevler\2024-2025 NDP Proje\OOP_Project_Assignment_B231210041\SiteYonetimPaneli\bin\Debug\net9.0-windows\SiteYonetimPaneli.exe
+C:\Users\MONSTER\Desktop\1.Sınıf 2.Dönem\NDP\Ödevler\2024-2025 NDP Proje\OOP_Project_Assignment_B231210041\SiteYonetimPaneli\bin\Debug\net9.0-windows\SiteYonetimPaneli.deps.json
+C:\Users\MONSTER\Desktop\1.Sınıf 2.Dönem\NDP\Ödevler\2024-2025 NDP Proje\OOP_Project_Assignment_B231210041\SiteYonetimPaneli\bin\Debug\net9.0-windows\SiteYonetimPaneli.runtimeconfig.json
+C:\Users\MONSTER\Desktop\1.Sınıf 2.Dönem\NDP\Ödevler\2024-2025 NDP Proje\OOP_Project_Assignment_B231210041\SiteYonetimPaneli\bin\Debug\net9.0-windows\SiteYonetimPaneli.dll
+C:\Users\MONSTER\Desktop\1.Sınıf 2.Dönem\NDP\Ödevler\2024-2025 NDP Proje\OOP_Project_Assignment_B231210041\SiteYonetimPaneli\bin\Debug\net9.0-windows\SiteYonetimPaneli.pdb
+C:\Users\MONSTER\Desktop\1.Sınıf 2.Dönem\NDP\Ödevler\2024-2025 NDP Proje\OOP_Project_Assignment_B231210041\SiteYonetimPaneli\obj\Debug\net9.0-windows\SiteYonetimPaneli.HavuzFitnessYonetimForm.resources
+C:\Users\MONSTER\Desktop\1.Sınıf 2.Dönem\NDP\Ödevler\2024-2025 NDP Proje\OOP_Project_Assignment_B231210041\SiteYonetimPaneli\obj\Debug\net9.0-windows\SiteYonetimPaneli.MainForm.resources
+C:\Users\MONSTER\Desktop\1.Sınıf 2.Dönem\NDP\Ödevler\2024-2025 NDP Proje\OOP_Project_Assignment_B231210041\SiteYonetimPaneli\obj\Debug\net9.0-windows\SiteYonetimPaneli.MekanYonetimForm.resources
+C:\Users\MONSTER\Desktop\1.Sınıf 2.Dönem\NDP\Ödevler\2024-2025 NDP Proje\OOP_Project_Assignment_B231210041\SiteYonetimPaneli\obj\Debug\net9.0-windows\SiteYonetimPaneli.OdemeYonetimForm.resources
+C:\Users\MONSTER\Desktop\1.Sınıf 2.Dönem\NDP\Ödevler\2024-2025 NDP Proje\OOP_Project_Assignment_B231210041\SiteYonetimPaneli\obj\Debug\net9.0-windows\SiteYonetimPaneli.OturanYonetimForm.resources
+C:\Users\MONSTER\Desktop\1.Sınıf 2.Dönem\NDP\Ödevler\2024-2025 NDP Proje\OOP_Project_Assignment_B231210041\SiteYonetimPaneli\obj\Debug\net9.0-windows\SiteYonetimPaneli.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\1.Sınıf 2.Dönem\NDP\Ödevler\2024-2025 NDP Proje\OOP_Project_Assignment_B231210041\SiteYonetimPaneli\obj\Debug\net9.0-windows\SiteYonetimPaneli.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\1.Sınıf 2.Dönem\NDP\Ödevler\2024-2025 NDP Proje\OOP_Project_Assignment_B231210041\SiteYonetimPaneli\obj\Debug\net9.0-windows\SiteYonetimPaneli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONSTER\Desktop\1.Sınıf 2.Dönem\NDP\Ödevler\2024-2025 NDP Proje\OOP_Project_Assignment_B231210041\SiteYonetimPaneli\obj\Debug\net9.0-windows\SiteYonetimPaneli.AssemblyInfoInputs.cache
+C:\Users\MONSTER\Desktop\1.Sınıf 2.Dönem\NDP\Ödevler\2024-2025 NDP Proje\OOP_Project_Assignment_B231210041\SiteYonetimPaneli\obj\Debug\net9.0-windows\SiteYonetimPaneli.AssemblyInfo.cs
+C:\Users\MONSTER\Desktop\1.Sınıf 2.Dönem\NDP\Ödevler\2024-2025 NDP Proje\OOP_Project_Assignment_B231210041\SiteYonetimPaneli\obj\Debug\net9.0-windows\SiteYonetimPaneli.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\1.Sınıf 2.Dönem\NDP\Ödevler\2024-2025 NDP Proje\OOP_Project_Assignment_B231210041\SiteYonetimPaneli\obj\Debug\net9.0-windows\SiteYonetimPaneli.dll
+C:\Users\MONSTER\Desktop\1.Sınıf 2.Dönem\NDP\Ödevler\2024-2025 NDP Proje\OOP_Project_Assignment_B231210041\SiteYonetimPaneli\obj\Debug\net9.0-windows\refint\SiteYonetimPaneli.dll
+C:\Users\MONSTER\Desktop\1.Sınıf 2.Dönem\NDP\Ödevler\2024-2025 NDP Proje\OOP_Project_Assignment_B231210041\SiteYonetimPaneli\obj\Debug\net9.0-windows\SiteYonetimPaneli.pdb
+C:\Users\MONSTER\Desktop\1.Sınıf 2.Dönem\NDP\Ödevler\2024-2025 NDP Proje\OOP_Project_Assignment_B231210041\SiteYonetimPaneli\obj\Debug\net9.0-windows\SiteYonetimPaneli.genruntimeconfig.cache
+C:\Users\MONSTER\Desktop\1.Sınıf 2.Dönem\NDP\Ödevler\2024-2025 NDP Proje\OOP_Project_Assignment_B231210041\SiteYonetimPaneli\obj\Debug\net9.0-windows\ref\SiteYonetimPaneli.dll
